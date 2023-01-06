@@ -1,0 +1,6 @@
+name: cs197
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+prefix: E:\anaconda3\envs\cs197
